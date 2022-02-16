@@ -1,5 +1,8 @@
 _repo: Traumerei_67341
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67341-h/images/cover.jpg
 creator:
   author:
     agent_name: Beaumont, Charles
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '36061'
     url: http://www.gutenberg.org/2009/agents/36061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67341#Traumerei
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67341'
